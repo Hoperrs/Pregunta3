@@ -39,7 +39,7 @@ Sigue estos pasos para construir y ejecutar los contenedores:
 
 ---
 
-## 🔄 Llamadas a la API
+## Llamadas a la API
 
 ### Opción 1:
 Se puede hacer una consulta POST de un json con [Postman](https://www.postman.com/) a `http://localhost:3000`. Formato del json:
